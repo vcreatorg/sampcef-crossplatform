@@ -159,9 +159,7 @@ samp-cef/
 ├── docs/
 │
 ├── README.md
-├── CREDITS.md
-├── CHANGELOG.md
-└── LICENSE
+└── CREDITS.md
 ```
 
 Platform implementations are not mixed into a single large source file. This makes the project easier to maintain and develop.
@@ -229,7 +227,6 @@ The project license will follow the license terms of the source code used and/or
 Please see:
 
 ```text
-LICENSE
 CREDITS.md
 ```
 
