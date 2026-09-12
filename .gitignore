@@ -1,0 +1,41 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Operating System
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+
+# Node.js
+node_modules/
+
+# Build
+build/
+dist/
+bin/
+obj/
+
+# Android / Gradle
+.gradle/
+.idea/
+*.iml
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Private credentials
+secrets.json
+credentials.json
