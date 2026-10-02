@@ -239,3 +239,6 @@ for complete information about copyright, attribution, and licensing of each com
 Thank you to the open-source developers who have provided the projects and libraries that became the foundation of SAMP CEF development.
 
 Without these upstream projects, the development of this SDK would not be possible using the same approach.
+
+And support:
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
